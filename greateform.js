@@ -1,5 +1,5 @@
 // JavaScript Document
-
+/*fdsafsdf*/
 (function(){
 var t=document.getElementsByTagName("input");
  for(var i =0; i<t.length;i++){
